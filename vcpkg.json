@@ -1,0 +1,8 @@
+{
+  "name": "libnfc",
+  "version": "1.8.0",
+  "builtin-baseline": "ae9060be1426e6536e31e8d65553c6ffe09c3492",
+  "dependencies": [
+    "libusb-win32"
+  ]
+}
